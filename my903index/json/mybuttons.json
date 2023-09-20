@@ -1,0 +1,86 @@
+{
+    "fontlabel":[
+    {
+            "title":"",
+             "fontsize":50,
+             "style":"color:rgba(255,255,255,1);",
+            "typeface":"Microsoft YaHei",
+            "labelpositionx":-150,
+            "labelpositiony":-270
+    },
+    {
+            "title":"",
+             "fontsize":20,
+               "style":"color:rgba(255,255,255,1);",
+                "typeface":"Microsoft YaHei",
+            "labelpositionx":-80,
+            "labelpositiony":-250
+    },
+
+
+    {
+            "title":"",
+             "fontsize":20,
+               "style":"color:rgba(255,255,255,1);",
+            "typeface":"Microsoft YaHei",
+            "labelpositionx":-150,
+            "labelpositiony":250
+    }
+    ],
+
+    "buttons":[
+    {
+                "name":"",
+                 "typeface":"Microsoft YaHei",
+                 "fontsize":15,
+                "directorypath":"../shellcode",
+                "shellname":"buttonfun1shell.sh",
+                "svg":"",
+                "svgwidth":130,
+                "svgheight":130,
+                "buttonx":190,
+                "buttony":150,
+                "labelpositionx":180,
+                "labelpositiony":80,
+                "bgpath":":/image/image12.jpg",
+                "buttonstyle":"background-color:transparent;color:rgba(255,255,255,1);",
+                "labelstyle":"border-image: url(:/image/image3.png);color:rgba(255,255,255,1);"
+      },
+      {
+                "name":"",
+                 "typeface":"Microsoft YaHei",
+                  "fontsize":15,
+                "directorypath":"../shellcode",
+                "shellname":"buttonfun2shell.sh",
+                "svg":"",
+                "svgwidth":130,
+                "svgheight":130,
+                "buttonx":65,
+                "buttony":150,
+                "labelpositionx":60,
+                "labelpositiony":80,
+                 "bgpath":":/image/image11.jpg",
+                "buttonstyle":"background:transparent ;color:rgba(255,255,255,1);",
+                "labelstyle":"border-image: url(:/image/image8.png);color:rgba(255,255,255,1);"
+        },
+        {
+                "name":"",
+                 "typeface":"Microsoft YaHei",
+                  "fontsize":15,
+                "directorypath":"../shellcode",
+                 "shellname":"buttonfun3shell.sh",
+                "svg":"",
+                "svgwidth":130,
+                "svgheight":130,
+                "buttonx":-45,
+                "buttony":150,
+                "labelpositionx": -60,
+                "labelpositiony":80,
+                 "bgpath":":/image/image10.jpg",
+                "buttonstyle":"background-color:transparent;color:rgba(255,255,255,1);",
+                "labelstyle":"border-image: url(:/image/image4.png);color:rgba(255,255,255,1);"
+         }
+        ]
+
+}
+

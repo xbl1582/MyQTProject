@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/back"/>
+    <qresource prefix="/">
+        <file>image/image1.svg</file>
+        <file>image/image2.svg</file>
+        <file>image/image5.svg</file>
+        <file>image/image6.svg</file>
+        <file>image/image7.svg</file>
+        <file>image/image9.svg</file>
+        <file>image/image3.png</file>
+        <file>image/image4.png</file>
+        <file>image/image8.png</file>
+        <file>image/bg.png</file>
+        <file>image/image10.jpg</file>
+        <file>image/image11.jpg</file>
+        <file>image/loading.gif</file>
+        <file>image/ter.png</file>
+        <file>image/firstmain.png</file>
+        <file>image/ip.png</file>
+        <file>image/image12.jpg</file>
+        <file>image/Drive.png</file>
+    </qresource>
+</RCC>

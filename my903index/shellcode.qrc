@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shellcode/buttonfun1shell.sh</file>
+        <file>shellcode/buttonfun2shell.sh</file>
+        <file>shellcode/buttonfun3shell.sh</file>
+        <file>shellcode/startTerminal.sh</file>
+        <file>shellcode/changIP.sh</file>
+        <file>shellcode/GetDisk.sh</file>
+    </qresource>
+</RCC>
