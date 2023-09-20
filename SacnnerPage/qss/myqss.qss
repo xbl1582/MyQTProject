@@ -1,0 +1,14 @@
+
+/*spinbox 抬起样式*/
+QTimeEdit::up-button,QDoubleSpinBox::up-button,QSpinBox::up-button {subcontrol-origin:border;
+    subcontrol-position:right;
+    image: url(:/ico/up_right.png);
+    width: 12px;
+    height: 20px;
+}
+QTimeEdit::down-button,QDoubleSpinBox::down-button,QSpinBox::down-button {subcontrol-origin:border;
+    subcontrol-position:left;
+    border-image: url(:/ico/up_left.png);
+    width: 12px;
+    height: 20px;
+}
