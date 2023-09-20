@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>json/pathjson2.json</file>
+        <file>json/pathjson.json</file>
+    </qresource>
+</RCC>
