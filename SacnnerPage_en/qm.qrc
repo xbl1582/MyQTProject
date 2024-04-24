@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SacnnerPage_en_en_AS.qm</file>
+        <file>ScannerPage_zh_cn_zh_CN.qm</file>
+    </qresource>
+</RCC>

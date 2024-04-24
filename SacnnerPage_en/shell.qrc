@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shellcode/openscanner.sh</file>
+        <file>shellcode/settshellcode.sh</file>
+    </qresource>
+</RCC>
