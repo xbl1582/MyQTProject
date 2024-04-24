@@ -1,0 +1,38 @@
+{
+	"//":"ini",
+	"parentpath":"/KST-903/FileContent/",
+	"inipath":"/KST-903/WTScannerParameter.ini",
+	"//":"配置文件修改项",
+	"iniupdateitem":"/PARAMETER/FileDir",
+	"//":"初始化扫描存储路径",
+	"scannerpageini":"./ScannerPage.ini",
+	"//":"配置文件修改项",
+	"scannerpageitem":"/SCANNERPAGE/OriFileDir",
+	"//":"扫描文件存储路径需要用户自定义修改",
+	"imageinitpath":"/KST-903/FileContent/Default/",
+	"//":"保存截去黑边所用的模板",
+	"savetemplepath":"/template",
+	"//":"保存处理后保存的地址,需要用户自定义",
+	"resultimagepath":"/results/",
+	"//":"扫描启动的工作环境",
+	"scannerworkspace":"/shellcode",
+	"//":"启动扫描的脚本",
+	"scannershellname":"openscanner.sh",
+	"//":"保存生成水印的临时地址",
+	"watertemppath":"/waterimage",
+	"//":"保存生成水印地址",
+	"waterinitImapgepath":"/KST-903/FileContent/watermark/",
+	"//":"保存黑边地址",
+	"quheibianimagepath":"/KST-903/FileContent/blackedge/",
+	"//":"校正保存地址",
+	"jiaozhengimagepath":"/KST-903/FileContent/check/",
+	"//":"设置文件：工作目录+执行的shell脚本名称",
+	"settingworkpath":"/shellcode",
+	"settingshellname":"settshellcode.sh"
+	
+}
+
+
+
+
+
