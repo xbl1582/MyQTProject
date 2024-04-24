@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>524</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QWidget" name="widget_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>250</y>
+     <width>200</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>200</width>
+     <height>35</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>200</width>
+     <height>50</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#pushButtonOK
+{
+    color:white;
+    background-color:rgb(14 , 150 , 254);
+    border-radius:5px;
+}
+
+QPushButton#pushButtonOK:hover
+{
+    color:white;
+    background-color:rgb(44 , 137 , 255);
+}
+
+QPushButton#pushButtonOK:pressed
+{
+    color:white;
+    background-color:rgb(14 , 135 , 228);
+    padding-left:3px;
+    padding-top:3px;
+}
+QPushButton#pushButtonOK:!enabled
+{
+     color:white;
+    background-color:rgb(190, 190, 190);
+}
+/*pushButton_Cancel*/
+
+QPushButton#pushButton_Cancel
+{
+    color:white;
+    background-color:rgb(255, 0, 0);
+    border-radius:5px;
+}
+
+QPushButton#pushButton_Cancel:hover
+{
+    color:white;
+    background-color:rgb(234, 0, 0);
+}
+
+QPushButton#pushButton_Cancel:pressed
+{
+    color:white;
+    background-color:rgb(189, 0, 0);
+    padding-left:3px;
+    padding-top:3px;
+}
+QPushButton#pushButton_Cancel:!enabled
+{
+     color:white;
+    background-color:rgb(190, 190, 190);
+}</string>
+   </property>
+   <widget class="QPushButton" name="pushButtonOK">
+    <property name="geometry">
+     <rect>
+      <x>9</x>
+      <y>2</y>
+      <width>75</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>确  认</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_Cancel">
+    <property name="geometry">
+     <rect>
+      <x>106</x>
+      <y>2</y>
+      <width>75</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>取  消</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>6</x>
+     <y>11</y>
+     <width>511</width>
+     <height>231</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>18</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPlainxTextEdit{
+	color:rgb(0,0,0);
+}</string>
+   </property>
+   <property name="plainText">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

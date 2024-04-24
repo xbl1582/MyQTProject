@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>KSTMAIN.ico</file>
+    </qresource>
+</RCC>

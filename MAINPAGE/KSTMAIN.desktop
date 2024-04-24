@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=快选通更新服务
+Icon=/opt/WT/KSTMAIN/image/logo/KSTMAIN.png
+Comment=选通更新服务
+Exec=//opt/WT/KSTMAIN/start.sh
+Terminal=false
+Type=Application
+MimeType=application/exe
